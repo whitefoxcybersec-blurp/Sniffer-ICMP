@@ -1,3 +1,5 @@
+atualize o readme com as novas funções do programa
+
 # 🐍 Python Network Sniffer (sniffer_pro.py)
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
