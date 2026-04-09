@@ -1,0 +1,120 @@
+{
+  "Router": [
+    {
+      "response_time_ms": 2.1,
+      "packet_size": 84,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 5,
+      "avg_interval": 0.1,
+      "variance_interval": 0.01
+    },
+    {
+      "response_time_ms": 1.8,
+      "packet_size": 84,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 3,
+      "avg_interval": 0.15,
+      "variance_interval": 0.02
+    },
+    {
+      "response_time_ms": 2.5,
+      "packet_size": 80,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 4,
+      "avg_interval": 0.12,
+      "variance_interval": 0.015
+    }
+  ],
+  "WindowsPC": [
+    {
+      "response_time_ms": 5.2,
+      "packet_size": 92,
+      "ttl": 128,
+      "udp_port": 65212,
+      "response_count": 8,
+      "avg_interval": 0.2,
+      "variance_interval": 0.05
+    },
+    {
+      "response_time_ms": 6.1,
+      "packet_size": 88,
+      "ttl": 128,
+      "udp_port": 65212,
+      "response_count": 6,
+      "avg_interval": 0.25,
+      "variance_interval": 0.08
+    },
+    {
+      "response_time_ms": 4.8,
+      "packet_size": 90,
+      "ttl": 128,
+      "udp_port": 65212,
+      "response_count": 7,
+      "avg_interval": 0.22,
+      "variance_interval": 0.06
+    }
+  ],
+  "LinuxServer": [
+    {
+      "response_time_ms": 3.5,
+      "packet_size": 76,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 12,
+      "avg_interval": 0.08,
+      "variance_interval": 0.03
+    },
+    {
+      "response_time_ms": 3.2,
+      "packet_size": 80,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 15,
+      "avg_interval": 0.07,
+      "variance_interval": 0.02
+    },
+    {
+      "response_time_ms": 3.8,
+      "packet_size": 78,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 10,
+      "avg_interval": 0.09,
+      "variance_interval": 0.04
+    }
+  ],
+  "IoT": [
+    {
+      "response_time_ms": 15.0,
+      "packet_size": 56,
+      "ttl": 255,
+      "udp_port": 65212,
+      "response_count": 2,
+      "avg_interval": 1.0,
+      "variance_interval": 0.5
+    },
+    {
+      "response_time_ms": 18.2,
+      "packet_size": 60,
+      "ttl": 255,
+      "udp_port": 65212,
+      "response_count": 1,
+      "avg_interval": 2.0,
+      "variance_interval": 1.2
+    }
+  ],
+  "MacOS": [
+    {
+      "response_time_ms": 4.2,
+      "packet_size": 84,
+      "ttl": 64,
+      "udp_port": 65212,
+      "response_count": 5,
+      "avg_interval": 0.18,
+      "variance_interval": 0.04
+    }
+  ]
+}
